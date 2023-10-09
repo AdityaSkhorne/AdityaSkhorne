@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaSkhorne
 - 👀 I’m interested in Programming and learning 
 - 🌱 I’m currently learning C, C++,OOP, DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me 8308281392
 
 <!---
