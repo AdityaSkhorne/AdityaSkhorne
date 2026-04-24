@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @AdityaSkhorne
-- 👀 I’m interested in Programming and learning 
--  I’m currently learning C, C++,OOP, DSA
--  I’m looking to collaborate on Open Source projects 
--  How to reach me adityashankarkhorne@gmail.com
-<!---
-AdityaSkhorne/AdityaSkhorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Aditya
+I’m a Computer Science student passionate about programming, problem-solving, and AI.
+I’m currently learning C, C++, OOP, DSA, and Generative AI, and I’m working on projects that combine software development with real-world use cases.
+I’m open to collaborating on meaningful projects and open source work.
+Contact: adityashankarkhorne@gmail.com
